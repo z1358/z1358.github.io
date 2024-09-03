@@ -6,9 +6,9 @@ email: zhuzhilin@stu.hit.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Collaborative Learning; Class-Incremental Learning; Multi-View Learning
+keywords: Continual Learning; Few-shot Learning; Multi-modal Learning
 description: The site is the academic personal homepage of Zhilin Zhu.
-canonical: https://minimal-light-theme.yliu.me/
+canonical: 
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
