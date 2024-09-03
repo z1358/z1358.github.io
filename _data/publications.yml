@@ -6,15 +6,12 @@ main:
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2407.09367
     code: https://github.com/z1358/OBAO
-    image: ./assets/img/eccv_24.pdf
+    image: ./assets/img/eccv_24.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Multi-Granularity Episodic Contrastive Learning for Few-Shot Learning"
+    authors: Pengfei Zhu, <strong>Zhilin Zhu</strong>, Yu Wang, Jinglin Zhang, Shuai Zhao
+    conference_short: PR
+    conference: Pattern Recognition <strong>(PR)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0031320322003016
+    code: https://github.com/z1358/MGECL_PR
+    image: ./assets/img/pr_22.png
