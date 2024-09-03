@@ -58,7 +58,7 @@ I'm Zhilin Zhu (朱之林), a Ph.D. candidate in the VIR Group, Harbin Institute
           </a> 
         <ul>
         <li>
-          Academic Intern, in the Department of Risk Control  </li>
+          Academic Intern </li>
         <li> In the Department of Risk Control  </li>
       </ul>      
       </div>
