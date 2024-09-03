@@ -41,22 +41,25 @@ I'm Zhilin Zhu (朱之林), a Ph.D. candidate in the VIR Group, Harbin Institute
 <div align="left">
         <strong> Pengcheng Laboratory, Shenzhen, China  (Sep 2023 - Now) </strong>
           <a target="_blank" rel="external">
-            <img border="0" src="assets/img/pcl_logo.jpg" align="right" width="80" height="70">
+            <img border="0" src="assets/img/pcl_logo.jpg" align="right" width="80" height="80">
           </a> 
         <ul>
         <li>
-          Co-culture Student, in the Department of Networked Intelligence </li>
+          Co-culture Student </li>
+        <li>
+          In the Department of Networked Intelligence </li>
       </ul>      
       </div>   
 
 <div align="left">
         <strong> ByteDance, Beijing, China  (Apr 2022 - Jun 2022) </strong>
           <a target="_blank" rel="external">
-            <img border="0" src="assets/img/bytedance_logo.jpg" align="right" width="80">
+            <img border="0" src="assets/img/bytedance_logo.jpg" align="right" height="30">
           </a> 
         <ul>
         <li>
           Academic Intern, in the Department of Risk Control  </li>
+        <li> In the Department of Risk Control  </li>
       </ul>      
       </div>
       
