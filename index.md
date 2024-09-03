@@ -41,7 +41,7 @@ I'm Zhilin Zhu (朱之林), a Ph.D. candidate in the VIR Group, Harbin Institute
 <div align="left">
         <strong> Pengcheng Laboratory, Shenzhen, China  (Sep 2023 - Now) </strong>
           <a target="_blank" rel="external">
-            <img border="0" src="assets/img/pcl_logo.jpg" align="right" width="70" height="70">
+            <img border="0" src="assets/img/pcl_logo.jpg" align="right" width="80" height="80">
           </a> 
         <ul>
         <li>
@@ -52,7 +52,7 @@ I'm Zhilin Zhu (朱之林), a Ph.D. candidate in the VIR Group, Harbin Institute
 <div align="left">
         <strong> ByteDance, Beijing, China  (Apr 2022 - Jun 2022) </strong>
           <a target="_blank" rel="external">
-            <img border="0" src="assets/img/bytedance_logo.jpg" align="right" width="70" height="70">
+            <img border="0" src="assets/img/bytedance_logo.jpg" align="right" width="80">
           </a> 
         <ul>
         <li>
