@@ -37,7 +37,18 @@ I'm Zhilin Zhu (朱之林), a Ph.D. candidate in the VIR Group, Harbin Institute
           Bachelor & Master, Advisor: Prof. Pengfei Zhu and Assoc. Prof. Yu Wang</li>
       </ul>      
       </div>
-      
+
+## Experience
+<div align="left">
+        <strong> Pengcheng Laboratory, Shenzhen, China  (Sep 2023 - Now) </strong>
+          <a target="_blank" rel="external">
+            <img border="0" src="assets/img/pc_logo.jpg" align="right" width="70" height="70">
+          </a> 
+        <ul>
+        <li>
+          Co-culture Student, in the Department of Networked Intelligence </li>
+      </ul>      
+      </div>   
       
 ## News
 
