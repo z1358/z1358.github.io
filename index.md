@@ -29,7 +29,7 @@ I'm Zhilin Zhu (朱之林), a Ph.D. candidate in the VIR Group, Harbin Institute
 <div align="left">
         <strong> Tianjin University, Tianjin, China</strong>
           <a target="_blank" rel="external">
-            <img border="0" src="assets/img/tju_logo.jpg" align="right" width="100" height="100">
+            <img border="0" src="assets/img/tju_logo.jpg" align="right" width="80" height="80">
           </a> 
         <ul>
         <li>College of Intelligence and Computing, Sep 2016 - Mar 2023 </li>
