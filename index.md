@@ -49,12 +49,24 @@ I'm Zhilin Zhu (朱之林), a Ph.D. candidate in the VIR Group, Harbin Institute
           Co-culture Student, in the Department of Networked Intelligence </li>
       </ul>      
       </div>   
+
+<div align="left">
+        <strong> ByteDance, Beijing, China  (Apr 2022 - Jun 2022) </strong>
+          <a target="_blank" rel="external">
+            <img border="0" src="assets/img/bytedance_logo.jpg" align="right" width="80" height="80">
+          </a> 
+        <ul>
+        <li>
+          Academic Intern, in the Department of Risk Control  </li>
+      </ul>      
+      </div>
       
 ## News
 
-- **[2024-08]** Our paper about continual test-time adaptation has been accepted to ECCV 2024!
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[2024-08]** Our paper about continual test-time adaptation (CTTA) has been accepted by European Conference on Computer Vision (ECCV).
+- **[2023-06]** Our team (served as team leader) has won the runner-up of the 4th CLVision Challenge about Continual Learning in CVPR 2023.
+- **[2022-11]** Our paper about few-shot learning and multi-granularity has been accepted by Pattern Recognition (PR).
+- 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
